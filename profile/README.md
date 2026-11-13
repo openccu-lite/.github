@@ -8,6 +8,7 @@
 </h1>
 
 [![stable release](https://img.shields.io/github/v/release/openccu-lite/openccu-lite?label=stable)](https://github.com/openccu-lite/openccu-lite/releases/latest)
+[![beta release](https://img.shields.io/github/v/release/openccu-lite/openccu-lite?include_prereleases&filter=*-*&label=beta&color=yellow)](https://github.com/openccu-lite/openccu-lite/releases)
 
 <!-- release:start -->
 ## Download: openccu-lite 1.2.1
