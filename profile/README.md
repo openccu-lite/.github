@@ -9,6 +9,7 @@
 
 [![stable release](https://img.shields.io/github/v/release/openccu-lite/openccu-lite?label=stable)](https://github.com/openccu-lite/openccu-lite/releases/latest)
 
+<!-- release:start -->
 ## Download: openccu-lite 1.2.1
 
 | System | Download |
@@ -20,6 +21,7 @@
 
 Alle Dateien, Prüfsummen und Hinweise / all files, checksums and notes:
 [Release v1.2.1](https://github.com/openccu-lite/openccu-lite/releases/tag/v1.2.1)
+<!-- release:end -->
 
 <a id="deutsch"></a>
 **Deutsch** · [English](#english)
