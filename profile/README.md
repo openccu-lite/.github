@@ -1,8 +1,8 @@
 <h1>
   <a href="https://github.com/openccu-lite/openccu-lite">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/openccu-lite/openccu-lite/main/docs/images/openccu-lite-dark@2x.png">
-      <img src="https://raw.githubusercontent.com/openccu-lite/openccu-lite/main/docs/images/openccu-lite-light@2x.png" alt="openccu-lite" width="428">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/openccu-lite/.github/main/profile/images/openccu-lite-dark@2x.png">
+      <img src="https://raw.githubusercontent.com/openccu-lite/.github/main/profile/images/openccu-lite-light@2x.png" alt="openccu-lite" width="428">
     </picture>
   </a>
 </h1>
